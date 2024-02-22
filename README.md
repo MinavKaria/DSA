@@ -1,3 +1,12 @@
+
+## I would recommend you to  and Clone the repo and Download Obsidian and open this on it, for better experience
+
+
+
+
+
+# DSA 
+
 ## Upper Bound  and Lower Bound 
 
 ```cpp
